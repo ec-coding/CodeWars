@@ -1,7 +1,7 @@
 # CodeWars
 Daily coding challenges to strengthen problem solving skills
 
-![Codewars Profile](https://github.com/ec-coding/CodeWars/blob/main/CodeWars.png)
+![Codewars Profile](https://github.com/ec-coding/CodeWars/blob/main/CodeWars%205kyu.png)
 
 Languages used: JavaScript
 
