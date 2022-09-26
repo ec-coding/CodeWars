@@ -1,7 +1,5 @@
 # CodeWars Challenges
-<a href="https://www.codewars.com/users/Zolere" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=CODEWARS&color=23555f&style=plastic&logo=codewars&logo-color=white"/>
-</a>
+<a target="_blank" href="https://www.codewars.com/users/Zolere" >Visit Here</a> 
 
 ![Codewars Profile](https://github.com/ec-coding/CodeWars/blob/main/CodeWars%205kyu.png)
 
