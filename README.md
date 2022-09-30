@@ -1,7 +1,7 @@
 # CodeWars Challenges
 <h3><a target="_blank" href="https://www.codewars.com/users/Zolere">Visit Here</a></h3>
 
-![Codewars Profile](https://github.com/ec-coding/CodeWars/blob/main/CodeWars%205kyu.png)
+![Codewars Profile](https://github.com/ec-coding/CodeWars/blob/main/CodeWars%20Profile.png)
 
 ## How It's Made:
 
